@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>飞兔更新日志</title>
+    <link>http://update.feitu.me/update.xml</link>
+    <description>最新变更</description>
+    <language>zh-Hans</language>
+      <item>
+        <title>Version 2.0</title>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>修改了bug.</li>
+              <li>优化界面</li>
+              <li>...</li>
+              <li>...</li>
+            </ul>
+          ]]>
+        </description>
+        <pubDate>Sat, 26 Jul 2014 15:20:11 +0000</pubDate>
+        <enclosure url="http://sparkle-project.org/files/Sparkle%20Test%20App.zip" sparkle:version="2.0" length="107758" type="application/octet-stream" sparkle:dsaSignature="MCwCFCdoW13VBGJWIfIklKxQVyetgxE7AhQTVuY9uQT0KOV1UEk21epBsGZMPg==" />
+      </item>
+  </channel>
+</rss>
